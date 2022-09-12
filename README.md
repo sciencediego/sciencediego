@@ -24,6 +24,6 @@ O mundo está passando por uma mudança bastante significativa pós-covid e a en
 ---
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=sciencediego&show_icons=true&theme=gotham&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sciencediego&theme=gotham)
 
-![SCI](https://github.com/sciencediego/DataScience/blob/main/pin-on-%E5%8D%A1%E9%80%9A%E8%B5%9B%E5%8D%9A.gif)
-![SCI2](https://github.com/sciencediego/DataScience/blob/main/cyberpunk.gif)
+![SCI](https://github.com/sciencediego/DataScience/blob/main/eeee33110479203.5fee1f7411965.gif)
+
 ---
