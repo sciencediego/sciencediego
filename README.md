@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner3.png" >
+  <img src="https://github.com/sciencediego/DataScience/blob/main/Banner%20para%20Perfil%20do%20Linkedin%20Capa%20Criativa%20Estrategista%20de%20Carreira%20Azul%20e%20Branco.png" >
 </p>
 
 ## Diego Martins
