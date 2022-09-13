@@ -27,4 +27,4 @@ O mundo está passando por uma mudança bastante significativa pós-covid e a en
 ![SCI](https://github.com/sciencediego/DataScience/blob/main/eeee33110479203.5fee1f7411965.gif)
 
 ---
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sciencediego/sciencediego/blob/output/github-contribution-grid-snake.svg)
