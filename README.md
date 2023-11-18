@@ -5,9 +5,9 @@
 ## Diego Martins
 <sub>Production Engineering Student  l Data Science Student at Sigmoidal</sub>
 
-Ingressei nesse universo de Data Science por curiosidade e para se aprofundar em dados. Procuro estabelecer uma relação de estudos entre Data Science e a Engenharia de Produção, seja na criação de projetos ou artigos. 
+Ingressei nesse universo de Data Science por curiosidade e para se aprofundar nas ciências exatas com aplicação em dados. Procuro estabelecer uma relação de estudos entre Data Science e a Engenharia de Produção, seja na criação de projetos ou artigos visando a melhoria contínua dos processos produtivos e conhecimento em dados.
 
-O mundo está passando por uma mudança bastante significativa pós-covid e a engenharia não poderia ser diferente. Atualmente, mais do que saber sobre produção, é necessário ter uma visão macro sobre o projeto a ser desenvolvido. Para isso, o estudo de Data Science nos fornece uma análise mais precisa dos dados, favorecendo uma melhor tomada de decisões.
+O mundo está passando por uma mudança bastante significativa pós-covid, a engenharia não poderia ser diferente. Atualmente, mais do que saber sobre produção, é necessário ter uma visão macro sobre o projeto a ser desenvolvido. O estudo de Data Science nos fornece uma análise mais precisa dos dados, favorecendo uma melhor tomada de decisões, vantagem competitiva e obtenção de resultados satisfatórios.
 
 ---
 
