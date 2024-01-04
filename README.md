@@ -13,6 +13,7 @@ O mundo está passando por uma mudança bastante significativa pós-covid, a eng
 
 ## Projects:
 * **Analisando os dados do Airbnb:** https://bit.ly/3RNkWK8
+* **Software de gestão para locadora de carros** http://bit.ly/3S2pApg
 
 ## Social Network:
 [![author](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegomartinsl/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegow.maartins@gmail.com) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sciencediego)
