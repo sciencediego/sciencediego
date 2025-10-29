@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sciencediego/DataScience/blob/main/Minimalist%20Corporate.png" >
+  <img src="https://github.com/sciencediego/DataScience/blob/main/Data%20Science%20Diego.png" >
 </p>
 
 ## Diego Martins
