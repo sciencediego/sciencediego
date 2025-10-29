@@ -30,6 +30,6 @@ The world is undergoing a significant transformation in the post-COVID era, and 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=sciencediego&show_icons=true&theme=gotham&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sciencediego&theme=gotham)
 
 ![SCI](https://github.com/sciencediego/DataScience/blob/main/eeee33110479203.5fee1f7411965.gif)
-![SCI]([(https://asectr.wordpress.com/wp-content/uploads/2020/12/7ykr.gif?w=480)])
+![SCI](https://asectr.wordpress.com/wp-content/uploads/2020/12/7ykr.gif?w=480)
 
 ---
