@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sciencediego/DataScience/blob/main/Data%20Science%20Diego.png" >
+  <img src="https://www.canva.com/design/DAFnKn2jGbI/RXDNPLkCiyo0oTAcSxLCbw/view?utm_content=DAFnKn2jGbI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2f6df4e87c" >
 </p>
 
 ## Diego Martins
