@@ -8,11 +8,11 @@
 
 Ingressei nesse universo de Data Science por curiosidade e para se aprofundar nas ciências exatas com aplicação em dados. Procuro estabelecer uma relação de estudos entre Data Science e a Engenharia de Produção, seja na criação de projetos ou artigos visando a melhoria contínua dos processos produtivos e conhecimento em dados.
 
-O mundo está passando por uma mudança bastante significativa pós-covid, a engenharia não poderia ser diferente. Atualmente, mais do que saber sobre produção, é necessário ter uma visão macro sobre o projeto a ser desenvolvido. O estudo de Data Science nos fornece uma análise mais precisa dos dados, favorecendo uma melhor tomada de decisões, vantagem competitiva e obtenção de resultados satisfatórios.
+Atualmente, mais do que saber sobre produção, é necessário ter uma visão macro sobre o projeto a ser desenvolvido. O estudo de Data Science nos fornece uma análise mais precisa dos dados, favorecendo uma melhor tomada de decisões, vantagem competitiva e obtenção de resultados satisfatórios.
 
 I became interested in Data Science out of curiosity and to further explore the application of exact sciences in data analysis. My goal is to establish a connection between Data Science and Industrial Engineering, through projects and articles that aim to continuously improve productive processes and data knowledge.
 
-The world is undergoing a significant transformation in the post-COVID era, and the field of engineering is no exception. Today, it's not enough to just have knowledge of production; it's essential to have a broader perspective on the project at hand. The study of Data Science enables us to conduct a more precise analysis of data, leading to better decision-making, a competitive edge, and ultimately, achieving satisfactory outcomes.
+Today, it's not enough to just have knowledge of production; it's essential to have a broader perspective on the project at hand. The study of Data Science enables us to conduct a more precise analysis of data, leading to better decision-making, a competitive edge, and ultimately, achieving satisfactory outcomes.
 
 ---
 
